@@ -1,0 +1,2 @@
+../Src/NVIC.c:3:6:NVIC_EnableIRQ	16	static
+../Src/NVIC.c:11:6:NVIC_SetPriority	16	static

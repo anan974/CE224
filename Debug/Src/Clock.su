@@ -1,0 +1,3 @@
+../Src/Clock.c:4:6:RCC_HSEConfig	4	static
+../Src/Clock.c:16:6:RCC_PLLConfig	4	static
+../Src/Clock.c:38:6:RCC_AdcConfig	4	static

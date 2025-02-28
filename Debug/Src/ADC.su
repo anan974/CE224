@@ -1,0 +1,4 @@
+../Src/ADC.c:4:6:ADC_ClockConfig	4	static
+../Src/ADC.c:36:6:ADC_Config	16	static
+../Src/ADC.c:63:6:ADC_Start	24	static
+../Src/ADC.c:75:10:ADC_GetValue	24	static

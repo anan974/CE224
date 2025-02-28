@@ -1,0 +1,6 @@
+../Src/timer.c:4:6:TIM_ClockEnable	16	static
+../Src/timer.c:11:6:TIM_Config	16	static
+../Src/timer.c:33:6:TIM_Base_Start	16	static
+../Src/timer.c:39:6:TIM_Base_Start_IT	16	static
+../Src/timer.c:49:6:TIM_Stop_Base	16	static
+../Src/timer.c:54:6:TIM_Stop_IT	16	static

@@ -1,0 +1,6 @@
+../Src/I2C.c:4:6:i2c_init	3
+../Src/I2C.c:44:6:i2c_start	3
+../Src/I2C.c:60:6:i2c_add	5
+../Src/I2C.c:96:6:i2c_data	6
+../Src/I2C.c:128:6:i2c_stop	1
+../Src/I2C.c:138:6:i2c_write	2

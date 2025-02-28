@@ -1,0 +1,6 @@
+../Src/main.c:31:6:delay	2
+../Src/main.c:36:5:map	1
+../Src/main.c:41:6:Convert_ADC	5
+../Src/main.c:68:8:GetAngle	3
+../Src/main.c:85:5:main	2
+../Src/main.c:114:7:TIM2_IRQHandler	4
